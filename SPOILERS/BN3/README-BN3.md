@@ -3,7 +3,7 @@ This folder contains scripts related to the corp mechanic introduced in BN3.
 Prelim Early Corp Strategy (149b total):
 - Expand to Agriculture (40b)
 - Buy Smart Supply (25b)
-- Expand to all locations, 1 employee in each of Operations, Engineer, Intern(?) (45b)
+- Expand to all locations, 1 employee in each of Operations, Engineer, R&D(?) (45b)
 - Buy 1 level of DreamSense(?) (4b)
 - Buy 2 levels of Neural Accelerators, Focuswires, Nuoptimal Nootropic Inject Implants, and Speech Processor Implants (~8b)
 - Buy 2 warehouse upgrade in each location (~14b)
